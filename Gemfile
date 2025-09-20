@@ -50,4 +50,4 @@ end
 gem "kaminari", "~> 1.2"
 gem "rack-cors", "~> 2.0"
 
-gem "concurrent-ruby", "= 1.3.4"
+gem "concurrent-ruby", "1.3.5"
